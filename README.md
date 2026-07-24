@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Sindhiya Banner" width="100%">
+  <img src="banner.png" alt="Sindhiya Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sindhiya K</h1>
