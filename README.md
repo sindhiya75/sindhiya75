@@ -1,89 +1,127 @@
-# Hi there, I'm Sindhiya K 👋
+<p align="center">
+  <img src="images/banner.png" alt="Sindhiya Banner" width="100%">
+</p>
 
-### AI/ML Intern @ Drogo Drones | Aspiring AI & Software Engineer
+<h1 align="center">Hi 👋, I'm Sindhiya K</h1>
 
-Welcome to my GitHub! I'm passionate about building intelligent applications and solving real-world problems through software development and Artificial Intelligence.
+<h3 align="center">
+AI/ML Intern @ Drogo Drones | Aspiring AI & Software Engineer
+</h3>
 
----
+<p align="center">
+Building AI-powered solutions • Mobile Applications • Continuous Learner
+</p>
 
-## 👨‍💻 About Me
+<p align="center">
+<a href="https://www.linkedin.com/in/sindhiya1326">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-* 🎓 Final Year Engineering Student
-* 🚀 AI/ML Intern at **Drogo Drones**
-* 📱 Developing a **Construction Monitoring Mobile Application** using React Native
-* 🤖 Exploring Artificial Intelligence and Machine Learning
-* 💡 Interested in Software Development, Mobile Applications, and AI-driven solutions
-* 🌱 Continuously learning new technologies and improving my programming skills
+<a href="mailto:sindhiya1326@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-## 🛠️ Tech Stack
-
-**Programming Languages**
-
-* Python
-* JavaScript
-  
-
-**Mobile Development**
-
-* React Native
-* Expo
-
-**Backend**
-
-* Node.js
-* Express.js
-
-**Database**
-
-* PostgreSQL
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-* Android Studio
+<img src="https://komarev.com/ghpvc/?username=sindhiya75&style=for-the-badge&color=blue"/>
+</p>
 
 ---
 
-## 🚀 Current Focus
+# 👩‍💻 About Me
 
-* 📱 Construction Monitoring Mobile App
-* 🤖 AI & Machine Learning
-* 📊 Data Analysis
-* 🔗 API Integration
-* 📚 Learning advanced software engineering concepts
-
----
-
-## 📌 Featured Projects
-
-### 📱 Construction Monitoring Mobile Application
-
-A React Native application designed to simplify construction project monitoring, daily progress tracking, machinery usage, and image uploads.
-
-### 🤖 AI & Machine Learning Projects
-
-A collection of projects exploring machine learning, data analysis, and intelligent applications.
+- 🎓 Final Year Engineering Student
+- 🚀 AI/ML Intern @ **Drogo Drones**
+- 📱 Building a Construction Monitoring Mobile Application
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 💡 Interested in Software Engineering & Mobile Development
+- 🌱 Currently learning React Native, AI/ML & Backend Development
 
 ---
 
-## 🌟 Goals
+# 🚀 Tech Stack
 
-* Become an AI Engineer
-* Build impactful software products
-* Contribute to Open Source
-* Continuously learn and grow as a developer
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,postgres,git,github,vscode,androidstudio"/>
+
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- 📱 React Native Development
+- 🤖 Artificial Intelligence
+- 📊 Machine Learning
+- 🔗 REST APIs
+- 🗄 PostgreSQL
+- ☁ Backend Development
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-* 💼 LinkedIn: www.linkedin.com/in/sindhiya1326
-* 📧 Email: sindhiya1326@gmail.com
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sindhiya75&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhiya75&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sindhiya75&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Sindhiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sindhiya75&theme=tokyo-night)](https://github.com/sindhiya75)
+
+---
+
+# 📌 Featured Projects
+
+## 📱 Construction Monitoring Mobile App
+
+- Daily Progress Reports
+- Machinery Usage
+- Task Tracking
+- Image Upload
+- React Native + Node.js + PostgreSQL
+
+---
+
+## 🤖 AI & Machine Learning
+
+Projects related to:
+
+- Machine Learning
+- Data Analysis
+- Python
+- Recommendation Systems
+
+---
+
+# 🎯 Goals
+
+- 🚀 Become an AI Engineer
+- 📱 Build impactful software products
+- 🌍 Contribute to Open Source
+- 📚 Keep learning every day
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** sindhiya1326@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/sindhiya1326
 
 ⭐ *"Every project is an opportunity to learn, improve, and create something meaningful."*
