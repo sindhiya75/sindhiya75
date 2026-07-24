@@ -58,11 +58,6 @@ Building AI-powered solutions • Mobile Applications • Continuous Learner
 
 ---
 
-# 📊 GitHub Stats
-
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
