@@ -60,13 +60,6 @@ Building AI-powered solutions • Mobile Applications • Continuous Learner
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sindhiya75&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhiya75&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -93,7 +86,6 @@ Building AI-powered solutions • Mobile Applications • Continuous Learner
 - Daily Progress Reports
 - Machinery Usage
 - Task Tracking
-- Image Upload
 - React Native + Node.js + PostgreSQL
 
 ---
